@@ -1,17 +1,28 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-# Kushagra Singh Tomar
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=1&pause=999999&color=00C2FF&center=true&vCenter=true&width=700&lines=Kushagra+Singh+Tomar" alt="Kushagra Singh Tomar" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Full+Stack+Developer+(React+%2B+Spring+Boot);Application+Security+Enthusiast;CTF+Player+%7C+TryHackMe+%7C+Fox+Forters;Building+Secure%2C+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=☕+Java+Backend+Developer;⚛️+Full+Stack+(React+%2B+Spring+Boot);🔐+Application+Security+%26+CTF+Player;🤖+AI+Security+Researcher;🛠️+Building+Secure%2C+Scalable+Apps" />
 
-<img src="https://komarev.com/ghpvc/?username=kushagra31-coder&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kushagra31-coder&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/kushagra31-coder?label=Followers&style=for-the-badge&color=0e75b6"/>
+
+<br/><br/>
+
+<!-- Animated banner -->
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="3px"/>
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ## About Me
 
@@ -37,7 +48,7 @@
 <a href="https://github.com/kushagra31-coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://tryhackme.com">
+<a href="https://tryhackme.com/p/kushgratomar">
 <img src="[https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 </p>
@@ -134,7 +145,7 @@
 ## GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushagra31-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushagra31-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra31-coder&theme=tokyonight&hide_border=true"/>
 </div>
 
