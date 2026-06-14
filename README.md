@@ -18,8 +18,7 @@
 - 🎓 B.Tech CSE · Acropolis Institute of Technology & Research, Indore
 - ☕ Java Backend Developer — Spring Boot, JDBC, REST APIs
 - 🔐 Application Security — OWASP Top 10, CTFs, Prompt Injection
-- ⚛️ Full Stack — React + TypeScript + MySQL
-- ☁️ AWS Generative AI Foundations · NVIDIA LLM Prompt Engineering · IBM AI Foundations
+- ⚛️ Full Stack — React + TypeScript + MySQL + java
 - 🌐 IEEE Vice Web Master · AITR Student Branch
 
 <br clear="right"/>
@@ -39,7 +38,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://tryhackme.com">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="[https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 </p>
 
@@ -118,18 +117,38 @@
 | ⚛️ [MERN Stack Case Studies](https://github.com/kushagra31-coder/Mern-stack-) | React · TypeScript · MongoDB | 13 case studies — typed components, routing, Zustand, testing, lazy loading, aggregation, CRUD, transactions |
 
 ---
-
-## Certifications
-
-| Certificate | Issuer | Focus |
-|------------|--------|-------|
-| AWS Generative AI Foundations | Amazon Web Services | LLMs, GenAI on cloud |
-| LLM Prompt Engineering | NVIDIA | Prompt design, inference |
-| AI Foundations | IBM SkillsBuild | ML lifecycle, AI ethics |
+</details>
 
 ---
 
-## Vinternship — Case Studies Completed
+## Community & Leadership
 
-<details>
-<summary><b>React & TypeScript (10 Case Studies)</b></summary>
+**IEEE Student Branch · AITR** — Vice Web Master
+> Managing web presence, supporting technical events and workshops, improving digital outreach for the student branch
+
+**Coders High Community** — Active Member
+> Coding discussions, peer learning sessions, competitive problem solving
+
+---
+
+## GitHub Stats
+
+<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushagra31-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra31-coder&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra31-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+
+**"Build fast. Secure by design. Ship it."**
+
+</div>
+---
