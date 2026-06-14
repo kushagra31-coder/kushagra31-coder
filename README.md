@@ -1,9 +1,7 @@
 <div align="center">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=1&pause=999999&color=00C2FF&center=true&vCenter=true&width=700&lines=Kushagra+Singh+Tomar" alt="Kushagra Singh Tomar" />
+<h1 align="center">🔱</h1>
+ <h1 align="center">
+  Kushagra Singh Tomar
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=☕+Java+Backend+Developer;⚛️+Full+Stack+(React+%2B+Spring+Boot);🔐+Application+Security+%26+CTF+Player;🤖+AI+Security+Researcher;🛠️+Building+Secure%2C+Scalable+Apps" />
@@ -21,19 +19,19 @@
 
 </div>
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="270>
+<img align="right" width="350"
+src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
   
 ## About Me
 
 - 🎓 B.Tech CSE · Acropolis Institute of Technology & Research, Indore
 - ☕ Java Backend Developer — Spring Boot, JDBC, REST APIs
-- 🔐 Application Security — OWASP Top 10, CTFs, Prompt Injection
 - ⚛️ Full Stack — React + TypeScript + MySQL + java
 - 🌐 IEEE Vice Web Master · AITR Student Branch
 
 <br clear="right"/>
 
----
+
 
 ## Connect
 
@@ -96,7 +94,6 @@
 **Security**
 
 <p>
-<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
@@ -110,9 +107,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
@@ -156,9 +151,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
-
-**"Build fast. Secure by design. Ship it."**
 
 </div>
 
