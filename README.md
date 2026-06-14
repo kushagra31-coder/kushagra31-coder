@@ -21,8 +21,7 @@
 
 </div>
 
----
-![snake gif](https://github.com/kushagra31-coder/kushagra31-coder/blob/output/github-contribution-grid-snake-dark.svg)
+---<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450">
 ## About Me
 
 - 🎓 B.Tech CSE · Acropolis Institute of Technology & Research, Indore
