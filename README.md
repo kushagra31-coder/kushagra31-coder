@@ -21,7 +21,8 @@
 
 </div>
 
----<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="450">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="270>
+  
 ## About Me
 
 - 🎓 B.Tech CSE · Acropolis Institute of Technology & Research, Indore
