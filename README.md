@@ -22,8 +22,7 @@
 </div>
 
 ---
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
-
+![snake gif](https://github.com/kushagra31-coder/kushagra31-coder/blob/output/github-contribution-grid-snake-dark.svg)
 ## About Me
 
 - 🎓 B.Tech CSE · Acropolis Institute of Technology & Research, Indore
@@ -162,4 +161,4 @@
 **"Build fast. Secure by design. Ship it."**
 
 </div>
----
+
