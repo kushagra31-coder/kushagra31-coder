@@ -1,10 +1,13 @@
-<div align="center">
-<h1 align="center">🔱</h1>
- <h1 align="center">
-  Kushagra Singh Tomar
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1200&pause=2000&color=00CFFF&center=true&vCenter=true&width=1000&lines=%5BACCESS+GRANTED%5D;%5BIDENTITY+VERIFIED%5D;KUSHAGRA+SINGH+TOMAR;%3E+JAVA+BACKEND+DEVELOPER;%3E+APPLICATION+SECURITY+ENTHUSIAST" />
+</p>
+<p align="center">
+  <i>Code • Secure • Build • Scale</i>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=☕+Java+Backend+Developer;⚛️+Full+Stack+(React+%2B+Spring+Boot);🔐+Application+Security+%26+CTF+Player;🤖+AI+Security+Researcher;🛠️+Building+Secure%2C+Scalable+Apps" />
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
 <br/>
 
@@ -39,14 +42,14 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <a href="https://www.linkedin.com/in/kushagra-singh-tomar-94ba55277">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:kushgratomar@gmail.com">
+<a href="Mail :kushgratomar@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/kushagra31-coder">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://tryhackme.com/p/kushgratomar">
-<img src="[https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
 </p>
 
@@ -78,7 +81,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP_Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -112,6 +114,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
 
+
 ## Featured Projects
 
 | Project | Tech | Description |
@@ -119,7 +122,6 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 | 📊 [Student Dashboard](https://github.com/kushagra31-coder/student-dashboard) | Java · JSP · MySQL | Full-featured student management system with session auth, dark glassmorphism UI, DB-driven dynamic content |
 | 🛡️ [Shield-AI](https://github.com/kushagra31-coder/SHield-AI) | Python · AI | AI-powered security project for intelligent threat detection |
 | ☕ [Cafe Website](https://kushagra31-coder.github.io/cafe) | HTML · CSS · JS | Responsive cafe site with dark mode toggle, deployed on GitHub Pages |
-| ⚛️ [MERN Stack Case Studies](https://github.com/kushagra31-coder/Mern-stack-) | React · TypeScript · MongoDB | 13 case studies — typed components, routing, Zustand, testing, lazy loading, aggregation, CRUD, transactions |
 
 ---
 </details>
@@ -150,7 +152,3 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ---
 
 <div align="center">
-
-
-</div>
-
