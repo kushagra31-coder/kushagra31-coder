@@ -119,6 +119,12 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 | Project | Tech | Description |
 |---------|------|-------------|
+| 🏆 [IKIGAI 2026 Hackathon Platform](https://github.com/kushagra31-coder/iikigai) | Next.js 16 • Supabase | Official platform for IKIGAI 2026 featuring a dynamic leaderboard, evaluation engine, and live event system. |
+| 🎓 [AITR Student Dashboard](https://github.com/kushagra31-coder/student-dashboard) | Java • JSP • MySQL | Full-featured student management system with MVC architecture, session auth, and a custom Neobrutalist UI. |
+| 🛡️ [Shield-AI](https://github.com/kushagra31-coder/SHield-AI) | Python • AI | AI-powered security project for intelligent threat detection. |
+| ☕ [Cafe Website](https://kushagra31-coder.github.io/cafe) | HTML • CSS • JS | Responsive cafe site with dark mode toggle, deployed on GitHub Pages. |
+
+---------|------|-------------|
 | 📊 [Student Dashboard](https://github.com/kushagra31-coder/student-dashboard) | Java · JSP · MySQL | Full-featured student management system with session auth, dark glassmorphism UI, DB-driven dynamic content |
 | 🛡️ [Shield-AI](https://github.com/kushagra31-coder/SHield-AI) | Python · AI | AI-powered security project for intelligent threat detection |
 | ☕ [Cafe Website](https://kushagra31-coder.github.io/cafe) | HTML · CSS · JS | Responsive cafe site with dark mode toggle, deployed on GitHub Pages |
