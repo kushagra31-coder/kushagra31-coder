@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1200&pause=2000&color=00CFFF&center=true&vCenter=true&width=1000&lines=%5BACCESS+GRANTED%5D;%5BIDENTITY+VERIFIED%5D;KUSHAGRA+SINGH+TOMAR;%3E+JAVA+BACKEND+DEVELOPER;%3E+CYBERSECURITY+LEARNER" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1200&pause=2000&color=F89820&center=true&vCenter=true&width=1000&lines=%5BACCESS+GRANTED%5D;%5BIDENTITY+VERIFIED%5D;KUSHAGRA+SINGH+TOMAR;%3E+JAVA+BACKEND+DEVELOPER;%3E+SPRING+BOOT+%7C+REST+APIs+%7C+MySQL" />
 </p>
 <p align="center">
-  <i>Code • Secure • Build • Scale</i>
+  <i>☕ Code • Compile • Ship • Scale</i>
 </p>
 
 <div align="center">
@@ -12,9 +12,9 @@
 <br/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kushagra31-coder&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=kushagra31-coder&label=Profile+Views&color=ed8b00&style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/kushagra31-coder?label=Followers&style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/followers/kushagra31-coder?label=Followers&style=for-the-badge&color=ed8b00"/>
 </p>
 
 <!-- Animated banner -->
@@ -32,12 +32,21 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 - 🌐 Co-Webmaster · IEEE TEMS Student Chapter, AITR
 - 📬 Open to **Java backend internships** (remote)
 
+```java
+public class KushagraSinghTomar {
+    String   role     = "Java Backend Developer";
+    String[] stack    = { "Java", "Spring Boot", "REST APIs", "MySQL" };
+    String   focus    = "DSA patterns + placement prep";
+    boolean  hireable = true; // open to Java backend internships
+}
+```
+
 <br clear="right"/>
 
 ## Currently
 
 - 🎯 Placement prep: DSA + OOP daily, mock interviews coming up at college
-- 🌱 Leveling up Spring Boot through project work
+- 🌱 Leveling up Spring Boot through project work — Hibernate & Spring MVC in progress
 - 🛠️ Building **Ultron** — a fully offline voice assistant (Whisper STT → local LLM → Kokoro TTS)
 
 ## Connect
@@ -62,7 +71,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
 
-## Tech Stack
+## ☕ Tech Stack
 
 **Languages**
 
@@ -80,6 +89,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP_Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -150,12 +160,12 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 ## GitHub Stats
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushagra31-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kushagra31-coder&show_icons=true&theme=tokyonight&hide_border=true&title_color=ED8B00&icon_color=ED8B00"/>
 <img height="170em" src="https://streak-stats.demolab.com?user=kushagra31-coder&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra31-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra31-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=ED8B00"/>
 </div>
 
 ---
